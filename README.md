@@ -3,16 +3,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=👋%20Hi,%20I'm%20Bibisha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### 💻 CSIT Student | Full Stack Developer in Training  
+### 💻 CSIT Student | Full Stack Developer 
 
-I love coding 💖 and turning ideas into interactive web applications.  
+I love coding and turning ideas into interactive web applications.  
 
 </div>
 
 ---
 
 ## 🚀 About Me
-* 📍 Based in Butwal, Rupandehi, Nepal  
 * 🎓 CSIT Student  
 * 💡 Currently learning Full Stack Development  
 * ⚡ Fun Fact: I love solving coding challenges and building projects from scratch  
