@@ -8,7 +8,7 @@
 
 ### 💻 Frontend Developer | Lifelong Learner  
 
-A builder who loves transforming ideas into interactive and scalable web experiences.  
+A builder who loves transforming ideas into interactive and scalable web experiences
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bibisha&label=Profile%20views&color=302b63&style=flat-square)  
 
