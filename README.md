@@ -1,66 +1,58 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=👋%20Hi,%20I'm%20Bibisha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hi%20there!%20I'm%20Bibisha&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### 💻 CSIT Student | Full Stack Developer 
-
-I love coding and turning ideas into interactive web applications.  
+### 💻 CSIT Student | Full Stack Developer
+Turning ideas into interactive web applications 🌟
 
 </div>
 
 ---
 
-## 🚀 About Me
-* 🎓 CSIT Student  
-* 💡 Currently learning Full Stack Development  
-* ⚡ Fun Fact: I love solving coding challenges and building projects from scratch  
+## 👩‍💻 About Me
+- 🎓 CSIT Student  
+- 💡 Learning Full Stack Development 
+- ⚡ Passionate about coding, problem-solving, and building projects  
 
 ---
 
-## 🛠 Tech Stack  
-### 💻 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+## 🛠 Skills
 
-### 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<div align="center">
 
-### ☁ Deployment & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
+**Languages & Tools**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" height="40" />
 
-### ⚙️ Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
+**Databases**  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
+
+**Deployment & Cloud**  
+<img src="https://skillicons.dev/icons?i=vercel,netlify" height="40" />
+
+**Version Control**  
+<img src="https://skillicons.dev/icons?i=git,github" height="40" />
+
+</div>
 
 ---
 
-## 🌐 Connect with Me  
+## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bibisha-kharel-977a6228b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bibisha2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## ✨ Favorite Quote  
-> “Code is like humor. When you have to explain it, it’s bad.”  
+## 🚀 Let's Build
+<div align="center">
+💡 Open to collaborations, challenges, and new ideas!  
+Let's code something amazing together 💻✨
+</div>
 
 ---
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
-
-### ⚡ Thanks for visiting my profile!  
-Let’s build something amazing together 🚀
 </div>
